@@ -1,9 +1,9 @@
-Это Классическая змейка, написанная на Pascal.
+This is a classic snake written in Pascal.
 
-Запустить игру можно через файл snakegame.exe.
-Посмотреть код можно через snakegame.lpi в Lazarus IDE
+You can launch the game via snakegame.exe.
+You can view the code via snakegame.lpi in Lazarus IDE
 
-Я так же добавил пару особенностей:
-- Повышение уровня и скорости змейки при наборе очков
-- Бонусная еда — появляется на ограниченное время и даёт больше очков
-- Система рекордов — сохраняет топ-5 результатов в папку `highscores`
+I also added a couple of features:
+- Increase the level and speed of the snake when collecting points
+- Bonus food - appears for a limited time and gives more points
+- Highscore system - saves the top 5 results in the `highscores` folder
