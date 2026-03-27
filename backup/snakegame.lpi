@@ -27,6 +27,7 @@
       <Unit>
         <Filename Value="snakegame.lpr"/>
         <IsPartOfProject Value="True"/>
+        <UnitName Value="SnakeGame"/>
       </Unit>
     </Units>
   </ProjectOptions>

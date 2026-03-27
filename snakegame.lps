@@ -10,9 +10,8 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="SnakeGame"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="4"/>
-        <CursorPos X="21" Y="135"/>
-        <UsageCount Value="24"/>
+        <CursorPos X="52" Y="22"/>
+        <UsageCount Value="25"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -52,7 +51,7 @@
         <UsageCount Value="10"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="12">
+    <JumpHistory HistoryIndex="13">
       <Position>
         <Filename Value="snakegame.lpr"/>
         <Caret Line="161" Column="58" TopLine="141"/>
@@ -104,6 +103,10 @@
       <Position>
         <Filename Value="snakegame.lpr"/>
         <Caret Line="190" Column="22" TopLine="179"/>
+      </Position>
+      <Position>
+        <Filename Value="snakegame.lpr"/>
+        <Caret Line="621" Column="34" TopLine="603"/>
       </Position>
     </JumpHistory>
     <RunParams>
